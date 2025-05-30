@@ -16,24 +16,6 @@ The project was developed collaboratively with a focus on full-stack feature own
 
 **🔗 Live Project/Repo:** [SYNERGY - BookTable](https://github.com/gopinathsjsu/team-project-20201-synergy)
 
-#### ✨ Key Features:
-* **User Authentication:** Secure OTP-based login via AWS Cognito with role-based access control (Customer, RestaurantManager, Admin) managed by Cognito Groups.
-* **Restaurant Discovery:** Location-based search using MySQL spatial functions and Google Maps API, including map views and nearby suggestions. Customers can also see the number of bookings for a restaurant on a particular day.
-* **Booking Management:** Real-time booking and cancellation with conflict detection, and email confirmations using AWS SES and Thymeleaf templates.
-* **User Experience:** Personalized home and profile pages, allowing users to view restaurants and available time slots.
-* **Restaurant Manager Portal:** Functionality for managers to add/update restaurant details, upload images via AWS S3 pre-signed URLs, and view a management dashboard.
-* **Admin Portal:** An admin dashboard with analytics and capabilities to approve, reject, or remove restaurant listings.
-* **Ratings and Reviews:** Users can submit, view, and rate restaurants.
-
-#### 🛠️ Tech Stack:
-* **Frontend:** Next.js, React, Material-UI
-* **Backend:** Spring Boot (Java 17), Gradle
-* **Database:** MySQL
-* **Authentication:** AWS Cognito, Spring Security, JWTs
-* **Cloud Services:** AWS Elastic Beanstalk, EC2, Docker, ECR, S3, SES, Lambda
-* **APIs:** Google Maps GeoAPI
-* **CI/CD:** GitHub Actions for automated build, test (JaCoCo), and deployment.
-
 #### 🚀 My Contributions to SYNERGY - BookTable:
 
 As a Full Stack Developer on this project, I took ownership of several key features, focusing on both frontend and backend development to ensure a seamless user experience. My specific contributions included:
