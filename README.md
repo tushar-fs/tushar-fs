@@ -6,7 +6,7 @@ Here's a highlight of a recent project I've worked on:
 
 ---
 
-### 🍽️ SYNERGY - BookTable
+### 🍽️ BookTable Web Application
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5Qp4_Wqy)
 
@@ -35,4 +35,29 @@ As a Full Stack Developer on this project, I took ownership of several key featu
     * Enhanced the restaurant fetching API by adding a **Restaurant Booking Count field**, providing valuable insights into booking volumes, displayed on restaurant detail pages and cards.
     * Engineered the **Restaurant Details View (Full Stack)**, encompassing both UI and backend (Spring Boot) development, and integrated a feature to **View Restaurant Location on Google Maps**.
 
+### ⚙️ Log Processing Application (CLI)
+
+This command-line tool is designed to parse log files (`.txt` format) containing diverse log entries. Each line represents a distinct log entry, which the application categorizes and aggregates into structured JSON files, making log data more accessible and analyzable.
+
+It efficiently handles various log types, including:
+* **📊 APM (Application Performance Metrics) Logs:** Aggregates metrics like CPU, memory, and disk usage.
+* **🖥️ Application Logs:** Categorizes operational events such as errors, warnings, and info messages.
+* **🌐 Request Logs:** Details HTTP requests, response times, and status codes.
+
+The application leverages robust design patterns for extensibility and maintainability:
+* **🔗 Chain of Responsibility:** For sequential log processing by type.
+* **🎯 Strategy Pattern:** To encapsulate distinct log aggregation logic.
+
+**🛠️ Technologies Used:**
+
+* Java
+* Gradle (build system)
+* Gson (JSON serialization)
+
+**💡 Key Features & Design:**
+
+* Parses `.txt` log files and categorizes entries.
+* Aggregates data into JSON outputs for APM, Application, and Request logs.
+* Extensible architecture for future support of more log types and formats.
+* Clear command-line interface for building and execution.
 ---
