@@ -30,7 +30,7 @@ As a Full Stack Developer on this project, I took ownership of several key featu
 ---
 
 ### 🤖 Customer Support Analyzer (RAG) 
-A full-stack application that leverages a Retrieval-Augmented Generation (RAG) architecture to provide intelligent answers from a knowledge base of historical support tickets. This allows support staff to quickly find solutions to customer problems by asking questions in natural language.
+A full-stack application that leverages a **Retrieval-Augmented Generation (RAG)** architecture to provide intelligent answers from a knowledge base of historical support tickets. This allows support staff to quickly find solutions to customer problems by asking questions in natural language.
 
 > **Status:** Currently undergoing active development and feature enhancement.🧑‍💻
 
@@ -41,7 +41,7 @@ A full-stack application that leverages a Retrieval-Augmented Generation (RAG) a
 - **Efficient Vector Search:** Employs ChromaDB for fast and accurate similarity search.
 
 #### Technology Stack:
-- **Backend:** Python, FastAPI, ChromaDB, google-generativeai, sentence-transformers  
+- **Backend:** Python, FastAPI, Vector database(ChromaDB), google-generativeai, sentence-transformers (hugging face model)  
 - **Frontend:** Next.js, React, Tailwind CSS, lucide-react
 
 ---
