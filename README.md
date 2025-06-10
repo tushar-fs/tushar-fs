@@ -1,4 +1,5 @@
 # Hi there, I'm Tushar Singh 👋
+![View Resume]("https://drive.google.com/file/d/1dWTz_D0pHYpamMClyPE7WW-zPFEAoyzh/view?usp=sharing")
 
 ## 💻 The following projects showcase my skills and experience.
 
