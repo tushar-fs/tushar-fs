@@ -11,7 +11,7 @@ A results-driven Software Engineer with nearly 3 years of industry experience at
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-singh-sde/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tushar-fs/tushar-fs/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=react&logoColor=white)](https://workwithtushar.vercel.app/)
 
 </div>
 
