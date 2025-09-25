@@ -18,6 +18,31 @@ A results-driven Software Engineer with nearly 3 years of industry experience at
 
 ## 💼 Featured Projects
 
+### 🤖 Customer Support Analyzer (RAG)
+
+A full-stack application leveraging Retrieval-Augmented Generation (RAG) architecture to provide intelligent answers from a knowledge base of historical support tickets. Allows support staff to quickly find solutions by asking questions in natural language.
+
+🔗 Repo: [Customer Support Analyzer](https://github.com/tushar-fs/customer-support-analyzer)
+
+**Technologies:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+#### ✨ Achievements:
+
+- **🔍 AI Semantic Search:** Built a RAG system over Jira support tickets using Gemini, LangChain, and ChromaDB, delivering context-grounded answers with 80% accuracy
+- **⚡ Asynchronous Architecture:** Designed workflow using RabbitMQ to decouple AI processing, reducing P95 API response time from 15s to under 100ms (99% improvement)
+- **🚢 DevOps Implementation:** Containerized microservices with Docker, managed with Kubernetes and GitHub Actions CI/CD pipeline to AWS for repeatable builds/tests/deployments
+
+---
+
 ### 🍽️ BookTable Web Application (SYNERGY)
 
 A comprehensive online restaurant reservation platform designed to enhance the dining experience for customers, restaurant managers, and administrators. Features location-based search, real-time booking capabilities, personalized user profiles, and an integrated review system.
@@ -47,31 +72,6 @@ A comprehensive online restaurant reservation platform designed to enhance the d
 - Developed Fetch All Bookings API endpoint for user history
 - Engineered the Restaurant Details View (Full Stack)
 - Enhanced restaurant API with Booking Count insights
-
----
-
-### 🤖 Customer Support Analyzer (RAG)
-
-A full-stack application leveraging Retrieval-Augmented Generation (RAG) architecture to provide intelligent answers from a knowledge base of historical support tickets. Allows support staff to quickly find solutions by asking questions in natural language.
-
-🔗 Repo: [Customer Support Analyzer](https://github.com/tushar-fs/customer-support-analyzer)
-
-**Technologies:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-
-#### ✨ Achievements:
-
-- **🔍 AI Semantic Search:** Built a RAG system over Jira support tickets using Gemini, LangChain, and ChromaDB, delivering context-grounded answers with 80% accuracy
-- **⚡ Asynchronous Architecture:** Designed workflow using RabbitMQ to decouple AI processing, reducing P95 API response time from 15s to under 100ms (99% improvement)
-- **🚢 DevOps Implementation:** Containerized microservices with Docker, managed with Kubernetes and GitHub Actions CI/CD pipeline to AWS for repeatable builds/tests/deployments
 
 ---
 
