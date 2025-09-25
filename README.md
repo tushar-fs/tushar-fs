@@ -12,6 +12,7 @@ A results-driven Software Engineer with nearly 3 years of industry experience at
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-singh-sde/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=react&logoColor=white)](https://workwithtushar.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/elite__coder/)
 
 </div>
 
@@ -55,22 +56,22 @@ A full-stack application leveraging Retrieval-Augmented Generation (RAG) archite
 
 🔗 Repo: [Customer Support Analyzer](https://github.com/tushar-fs/customer-support-analyzer)
 
-> **Status:** Currently under active development 🧑‍💻
-
 **Technologies:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
-#### ✨ Key Features:
+#### ✨ Achievements:
 
-- **🔍 Natural Language Queries:** Clean, modern UI for plain English questions
-- **🧠 AI-Generated Answers:** Using Google's gemini-1.5-flash-latest model
-- **📚 Source-Backed Responses:** Returns original source tickets for verification
-- **⚡ Efficient Vector Search:** ChromaDB for fast similarity search
+- **🔍 AI Semantic Search:** Built a RAG system over Jira support tickets using Gemini, LangChain, and ChromaDB, delivering context-grounded answers with 80% accuracy
+- **⚡ Asynchronous Architecture:** Designed workflow using RabbitMQ to decouple AI processing, reducing P95 API response time from 15s to under 100ms (99% improvement)
+- **🚢 DevOps Implementation:** Containerized microservices with Docker, managed with Kubernetes and GitHub Actions CI/CD pipeline to AWS for repeatable builds/tests/deployments
 
 ---
 
